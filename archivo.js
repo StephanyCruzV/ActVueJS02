@@ -2,7 +2,7 @@ Vue.createApp({
     data() {
       return {
         information: {
-          name: "=================== LA FLDSMDFR - VACATION TRIP ===================",
+          name: "============== LA FLDSMDFR - VACATION TRIP ==============",
           id: "<< Página para ver que actividades se pueden hacer en vacaciones >>"
         },
         interests: ["Camping", "Water Parks", "Beach", "Theme Park", "Waterfalls"],
